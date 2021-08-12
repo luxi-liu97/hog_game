@@ -1,4 +1,4 @@
-# Hog Game
+# "Hog" - Dice Game
 Implementation of the game "Hog" and identifying strategies. 
 
 To play the game with the GUI, run from the terminal: 
