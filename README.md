@@ -1,7 +1,7 @@
 # "Hog" - Dice Game
 Implementation of the game "Hog" and identifying strategies. 
 
-To play the game with the GUI, run from the terminal: 
+To play the game with the GUI, clone the repository and run from the terminal: 
 ```
 python3 hog_gui.py
 ```
